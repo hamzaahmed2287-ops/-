@@ -1,0 +1,32 @@
+export const dict = {
+  EN: {
+    home: "Home",
+    discoveries: "Discoveries",
+    brands: "Brands",
+    categories: "Categories",
+    offers: "Offers",
+    about: "About Us",
+    profile: "Profile",
+    cart: "Cart",
+    brandsTitle: "Kashafa Brands",
+    brandsDesc: "Discover the latest emerging Egyptian brands and their unique identity.",
+    exploreProducts: "Explore Products",
+    studioName: "Kashafa Studio",
+    studioDesc: "Carefully crafted products tailored for your daily style.",
+  },
+  AR: {
+    home: "الرئيسية",
+    discoveries: "اكتشافات",
+    brands: "البراندات",
+    categories: "الأقسام",
+    offers: "العروض",
+    about: "عن كشافة",
+    profile: "حسابي",
+    cart: "السلة",
+    brandsTitle: "براندات كشافة",
+    brandsDesc: "اكتشف أحدث البراندات المصرية الناشئة وبصمتهم الفريدة.",
+    exploreProducts: "استعرض المنتجات",
+    studioName: "كشافة ستوديو",
+    studioDesc: "منتجات مصممة بعناية لتناسب استيلك اليومي.",
+  }
+};
